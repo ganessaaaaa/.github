@@ -4,7 +4,7 @@
 Ganessa is your go-to source for the latest crypto news and insights, shared directly through social media. We bring you real-time updates, trending topics, and key information from the world of cryptocurrency.
 </p>
 
-<h2>Connect with Ganessa</h2>
+<h2>Connect with us</h2>
 <ul>
     <li>Follow us on <a href="https://facebook.com/ganessaaaaa">Facebook</a></li>
     <li>Check out our latest posts on <a href="https://instagram.com/ganessaaaaa">Instagram</a></li>
