@@ -1,7 +1,7 @@
 <h1>Ganessa</h1>
 
 <p align="left">
-Ganessa is your go-to source for the latest crypto news and insights, shared directly through social media. We bring you real-time updates, trending topics, and key information from the world of cryptocurrency—all in one place.
+Ganessa is your go-to source for the latest crypto news and insights, shared directly through social media. We bring you real-time updates, trending topics, and key information from the world of cryptocurrency.
 </p>
 
 <h2>Connect with Ganessa</h2>
